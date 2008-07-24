@@ -1,0 +1,16 @@
+IronRuby Contributor Project
+http://github.com/ironruby/ironruby-contrib
+
+This project consists of open-source projects related to IronRuby.
+
+Most of the projects are git submodules, so you'll have to do the 
+following to check out the entire project:
+
+  > git clone git://github.com/ironruby/ironruby-contrib
+  > git submodules init
+  > git submodules update
+
+Projects:
+
+- Silverline: Ruby on Rails plugin for running Ruby in the browser
+              with IronRuby and Silverlight.
