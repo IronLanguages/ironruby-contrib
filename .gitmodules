@@ -1,0 +1,3 @@
+[submodule "silverline"]
+	path = silverline
+	url = git://github.com/jschementi/silverline.git
