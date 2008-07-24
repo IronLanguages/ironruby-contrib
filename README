@@ -12,5 +12,6 @@ following to check out the entire project:
 
 Projects:
 
-- Silverline: Ruby on Rails plugin for running Ruby in the browser
+- Silverline: http://github.com/jschementi/silverline
+              Ruby on Rails plugin for running Ruby in the browser
               with IronRuby and Silverlight.
