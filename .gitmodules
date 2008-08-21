@@ -2,5 +2,5 @@
 	path = silverline
 	url = git://github.com/jschementi/silverline.git
 [submodule "ironnails"]
-	path = ironnails
-	url = git://github.com/casualjim/ironnails.git
+  path = ironnails
+  url = git://github.com/casualjim/ironnails.git
