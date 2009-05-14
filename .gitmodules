@@ -1,6 +1,24 @@
 [submodule "silverline"]
 	path = silverline
 	url = git://github.com/jschementi/silverline.git
+[submodule "agdlr"]
+	path = agdlr
+	url = git://github.com/jschementi/agdlr.git
 [submodule "ironnails"]
   path = ironnails
   url = git://github.com/casualjim/ironnails.git
+[submodule "ironrubymvc"]
+  path = ironrubymvc
+  url = git://github.com/jschementi/ironrubymvc.git
+[submodule "ironruby-json"]
+  path = ironruby-json
+  url = git://github.com/nrk/ironruby-json.git
+[submodule "ironruby-hpricot"]
+  path = ironruby-hpricot
+  url = git://github.com/nrk/ironruby-hpricot.git
+[submodule "magic"]
+  path = magic 
+  url = git://github.com/thbar/magic.git
+[submodule "irdb"]
+  path = irdb
+  url = git://github.com/rvernagus/irdb.git

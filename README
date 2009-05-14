@@ -1,5 +1,5 @@
 IronRuby Contributor Project
-http://github.com/ironruby/ironruby-contrib
+============================
 
 This project consists of open-source projects related to IronRuby.
 
@@ -10,8 +10,24 @@ following to check out the entire project:
   > git submodule init
   > git submodule update
 
-Projects:
+Projects
+--------
 
 - Silverline: http://github.com/jschementi/silverline
               Ruby on Rails plugin for running Ruby in the browser
               with IronRuby and Silverlight.
+
+- agdlr: http://github.com/jschementi/agdlr
+         Silverlight integration with DLR languages
+
+- ironnails: http://github.com/casualjim/ironnails
+
+- ironrubymvc: http://github.com/jschementi/ironrubymvc
+
+- ironruby-json: http://github.com/nrk/ironruby-json
+
+- ironruby-hpricot: http://github.com/nrk/ironruby-hpricot
+
+- magic: http://github.com/thbar/magic
+
+- irdb: http://github.com/rvernagus/irdb
