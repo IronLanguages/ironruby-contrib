@@ -8,17 +8,26 @@
   path = ironnails
   url = git://github.com/casualjim/ironnails.git
 [submodule "ironrubymvc"]
-  path = ironrubymvc
-  url = git://github.com/jschementi/ironrubymvc.git
+	path = ironrubymvc
+	url = git://github.com/jschementi/ironrubymvc.git
 [submodule "ironruby-json"]
-  path = ironruby-json
-  url = git://github.com/nrk/ironruby-json.git
+	path = ironruby-json
+	url = git://github.com/nrk/ironruby-json.git
 [submodule "ironruby-hpricot"]
-  path = ironruby-hpricot
-  url = git://github.com/nrk/ironruby-hpricot.git
+	path = ironruby-hpricot
+	url = git://github.com/nrk/ironruby-hpricot.git
 [submodule "magic"]
-  path = magic 
-  url = git://github.com/thbar/magic.git
+	path = magic
+	url = git://github.com/thbar/magic.git
 [submodule "irdb"]
-  path = irdb
-  url = git://github.com/rvernagus/irdb.git
+	path = irdb
+	url = git://github.com/rvernagus/irdb.git
+[submodule "activerecord-mssql-adapter"]
+	path = activerecord-mssql-adapter
+	url = git://github.com/jschementi/activerecord-mssql-adapter.git
+[submodule "mix09"]
+	path = mix09
+	url = git://github.com/jschementi/mix09.git
+[submodule "railsconf09"]
+	path = railsconf09
+	url = git://github.com/jschementi/railsconf09.git
